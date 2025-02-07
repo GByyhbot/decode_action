@@ -1,16 +1,4 @@
-/**
- * @author Yuheng | onz3v
- * @name 黑料不打烊
- * @origin onz3v
- * @version 1.0.1
- * @update 修改导航地址
- * @description  黑料不打烊 资源均来自黑料网 且用且珍惜
- * @rule ^(hl|黑料)$
- * @admin true
- * @public true
- * @priority 999
- * @disable false
- */
+
 
 
 const axios = require("axios");
